@@ -7,6 +7,8 @@ authors = ["UbuntuKosuke <Ubuntu.Kosuke@gmail.com>"]
 [tool.poetry.dependencies]
 python = "3.9.13"
 scikit-learn = "1.1.2"
+skl2onnx = "1.12"
+packaging = "21.3"
 
 [tool.poetry.dev-dependencies]
 
